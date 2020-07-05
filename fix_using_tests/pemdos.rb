@@ -11,6 +11,8 @@ require 'pry'
 
 def snake_it_up(string)
   if x = 10
-  string[0] * x + string
+    string[0] * x + string
+  else
+    string
   end
 end
