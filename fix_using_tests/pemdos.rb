@@ -10,4 +10,5 @@ require 'pry'
 # end
 
 def snake_it_up(string)
-  string[0].times10 + string
+  x = 10
+  string[0] * x + string
