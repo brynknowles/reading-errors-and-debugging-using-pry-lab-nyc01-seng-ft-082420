@@ -10,6 +10,7 @@ require 'pry'
 # end
 
 def snake_it_up(string)
-  x = 10
+  if x = 10
   string[0] * x + string
+  end
 end
